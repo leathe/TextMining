@@ -25,7 +25,7 @@
 ### Dependencies/Imports:
 ####  `nltk`
 ####  `random`
-####  `~~SklearnClassifier from nltk.classify.scikitlearn~~`
+####  ~~`SklearnClassifier from nltk.classify.scikitlearn`~~
 ####  `pickle`
 ###  from`nltk.corpus`:
 #### `movie_reviews`
