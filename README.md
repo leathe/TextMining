@@ -25,12 +25,13 @@
 ### Dependencies/Imports:
 ####  `nltk`
 ####  `random`
-####  `movie_reviews` from `nltk.corpus`
 ####  `~~SklearnClassifier from nltk.classify.scikitlearn~~`
 ####  `pickle`
-### FROM `sklearn.naive_bayes`:
+###  from`nltk.corpus`:
+#### `movie_reviews`
+### from `sklearn.naive_bayes`:
 ####  `MultinomialNB`, `BernoulliNB`
-### FROM `sklearn.linear_model`:
+### from `sklearn.linear_model`:
 ####  `LogisticRegression`, `SGDClassifier`
-### FROM `sklearn.svm`:
+### from `sklearn.svm`:
 ####  `SVC`, `LinearSVC`, `NuSVC`
