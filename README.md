@@ -20,9 +20,8 @@
 
 ## Folders:
    SavedTrainingData folder contains pre-trained training data for each classifier.
-
    
-### Dependencies/Imports:
+## Dependencies/Imports:
 ####  `nltk`
 ####  `random`
 ####  ~~`SklearnClassifier from nltk.classify.scikitlearn`~~
