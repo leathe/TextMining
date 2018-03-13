@@ -22,15 +22,15 @@
    SavedTrainingData folder contains pre-trained training data for each classifier.
 
    
-## Dependencies/Imports:
-###  `nltk`
-###  `random`
-###  `movie_reviews` from `nltk.corpus`
-###  `~~SklearnClassifier from nltk.classify.scikitlearn~~`
-###  `pickle`
-## FROM `sklearn.naive_bayes`:
-###  `MultinomialNB`, `BernoulliNB`
-## FROM `sklearn.linear_model`:
-###  `LogisticRegression`, `SGDClassifier`
-## FROM `sklearn.svm`:
-###  `SVC`, `LinearSVC`, `NuSVC`
+### Dependencies/Imports:
+####  `nltk`
+####  `random`
+####  `movie_reviews` from `nltk.corpus`
+####  `~~SklearnClassifier from nltk.classify.scikitlearn~~`
+####  `pickle`
+### FROM `sklearn.naive_bayes`:
+####  `MultinomialNB`, `BernoulliNB`
+### FROM `sklearn.linear_model`:
+####  `LogisticRegression`, `SGDClassifier`
+### FROM `sklearn.svm`:
+####  `SVC`, `LinearSVC`, `NuSVC`
