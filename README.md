@@ -1,21 +1,21 @@
 Classifiers:
 - NB_classifier
-	- Naive Bayes Classifier (NLTK)
+	Naive Bayes Classifier (NLTK)
 - MNB_classifier
-	- Multinomial Naive Bayes Classifier (Scikit learn)
+	Multinomial Naive Bayes Classifier (Scikit learn)
 - BNB_classifier
-	- Bernoulli Naive Bayes Classifier (Scikit learn)
+	Bernoulli Naive Bayes Classifier (Scikit learn)
 - LogisticRegression_classifier
-	- Logistic Regression Classifier (Scikit learn)
-- SGDClassifier_classifier
-	- SGDClassifier (Scikit learn)
+	Logistic Regression Classifier (Scikit learn)
+- SGDClassifier_classifier 
+	Stochastic Gradient Descent (Scikit learn)
 - SVC_classifier
-	- SVC Classifier (Scikit learn)
-	- Will not be used. Returns a very poor accuracy percentage.
+	Support Vector Classifier (Scikit learn)
+	Will not be used. Returns a very poor accuracy percentage.
 - LinearSVC_classifier
-	- LinearSVC Classifier (Scikit learn)
+	Linear Support Vector Classifier (Scikit learn)
 - NuSVC_classifier
-	- NuSVC Classifier (Scikit learn)
-	
-	
-- .pickle files are saved training sets.
+	Nu Support Vector Classifier (Scikit learn)
+
+Folders:
+- SavedTrainingData folder contains pre-trained training data for each classifier.
