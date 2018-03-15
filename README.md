@@ -1,3 +1,8 @@
+Download Stanford Large Movie Review Dataset: http://ai.stanford.edu/%7Eamaas//data/sentiment/
+
+Extract the **train** folder dataset into a folder:
+/SLMRD
+
 ## Classifiers:
 
 ### NB_classifier
