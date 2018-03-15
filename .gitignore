@@ -1,5 +1,5 @@
-/SLMRD
-.log
-.docx
-.doc
-.pdf
+SLMRD/
+*.log
+*.docx
+*.doc
+*.pdf
